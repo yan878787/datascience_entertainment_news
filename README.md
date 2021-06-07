@@ -17,8 +17,9 @@
 3. 提供執行之畫面截圖
 
 利用作業一的結果建置到Heroku上並且利用flask將app.py印出來
-
+僅建置json檔案,app.py則是利用flask印出
 以下為執行結果!
+url: https://assisgnment4getfile.herokuapp.com/ 
 
 
 [messageImage_1623040057236](https://user-images.githubusercontent.com/66390845/120959361-2d0b5b80-c78c-11eb-8c75-b351fa0e4b3e.jpeg)
